@@ -144,6 +144,10 @@
 
   @media screen and (max-width: 768px){
 
+    .mainCard {
+      width: 90%;
+    }
+
     form {
       flex-direction: column;
     }
