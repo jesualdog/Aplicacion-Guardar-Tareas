@@ -145,7 +145,7 @@
   @media screen and (max-width: 768px){
 
     .mainCard {
-      width: 90%;
+      width: 70%;
     }
 
     form {
@@ -158,13 +158,18 @@
     }
 
     .datetime{
-      width: 65%;
+      width: 50%;
       margin: 15px 0;
     }
 
     .btnCreate {
       padding: 10px 17px;
     }
+  }
 
- 
+  @media screen and (min-width: 768px) and (max-width: 1024px){
+    
+    .mainCard {
+      width: 70%;
+    }
   }
