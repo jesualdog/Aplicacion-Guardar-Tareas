@@ -138,7 +138,6 @@
 
     .mainCard {
       width: 70%;
-      height: 90%;
     }
 
     form {
@@ -163,11 +162,15 @@
   @media screen and (min-width: 768px) and (max-width: 1024px){
 
     main {
-      padding-top: 30px;
+      padding: 30px 0;
 
     }
 
     .mainCard {
-      width: 60%;
+      width: 75%;
+    }
+
+    .inputForm {
+      width: 45%;
     }
   }
